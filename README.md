@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junry Jumawan Gallego</h1>
 <p align="center">
-  <em>Full-Stack Web Developer | Shopify Expert | WordPress Customizer | Virtual Assistant | Data Analyst</em>
+  <em>Full-Stack Web Developer | Shopify Expert | WordPress Customizer | API Integrator | Data Analyst</em>
 </p>
 
 ---
