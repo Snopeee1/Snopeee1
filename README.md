@@ -18,7 +18,6 @@ I believe in **clean code, user-first design, and continuous learning**. Whether
 - 📚 Currently learning **Next.js** & **Advanced API integrations**
 - 📩 Reach me at: **junry.jumawan4@gmail.com**
 - 🌐 Check my portfolio: [Portfolio Website](https://snopeee1.github.io/Portfolio/)
-- 📄 View my resume: [My CV](https://drive.google.com/file/d/15AD8mis9NMoA71zKUdN80eqbSDe4C5-t/view)
 
 ---
 
