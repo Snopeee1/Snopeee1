@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Junry Jumawan Gallego
+# Hi, I'm Junry!
 
 *Full-Stack Web Developer | Shopify Expert | WordPress Customizer | API Integrator | Data Analyst*
 
