@@ -6,11 +6,13 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate **Full-Stack Web Developer** from the Philippines with 2+ years of professional experience building **eCommerce, CMS, and custom web applications**.  
-I specialize in **Shopify, WordPress, and API development**, combining clean, responsive design with secure, scalable backends.  
-When I’m not coding, I love exploring SEO optimization, analytics, and discovering new tools that make projects more efficient.  
+I’m a **Full-Stack Web Developer** from the Philippines who builds eCommerce, CMS, and custom web applications that are fast, secure, and user-friendly.  
+My work spans **Shopify, WordPress, and API development**, where I combine responsive, polished design with reliable backend systems.  
 
-I believe in **clean code, user-first design, and continuous learning**. Whether it’s Shopify Liquid customization, API integration, or cloud deployments, I focus on delivering solutions that **perform well and look great**.
+I enjoy customizing Shopify Liquid themes, integrating APIs, and setting up cloud deployments that make businesses run smoother.  
+Outside of coding, I focus on **SEO improvements, performance optimization, and exploring tools** that help deliver projects efficiently.  
+
+I believe in **writing clean code, designing with the user in mind, and always finding better ways to solve problems** — whether that’s through a seamless checkout flow, an optimized content system, or a fully automated backend process.
 
 ---
 
