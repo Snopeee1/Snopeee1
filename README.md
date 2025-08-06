@@ -1,38 +1,44 @@
-<h1 align="center">Hi 👋, I'm Junry Jumawan Gallego</h1>
-<p align="center">
-  <em>Full-Stack Web Developer | Shopify Expert | WordPress Customizer | API Integrator | Data Analyst</em>
-</p>
+# 👋 Hi, I'm Junry Jumawan Gallego
+
+*Full-Stack Web Developer | Shopify Expert | WordPress Customizer | API Integrator | Data Analyst*
 
 ---
 
-## 🚀 About Me
-I am a passionate **Full-Stack Web Developer** from the Philippines 🇵🇭 with 2+ years of experience building and maintaining responsive, user-focused websites and applications.  
-I ❤️ working with **JavaScript, PHP, and Python** and enjoy exploring new technologies like AI integrations and automation tools.  
-When I’m not coding, I love learning about **SEO, analytics, and business optimization**.
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Shopify & WordPress E-commerce projects**
-- 🌱 I’m currently learning **Next.js & Advanced API Integrations**
-- 📫 Reach me at: **junry.jumawan4@gmail.com**
-- 📂 Check out my portfolio: [Portfolio Website](https://snopeee1.github.io/Portfolio/)
+I’m a passionate **Full-Stack Web Developer** from the Philippines with 2+ years of professional experience building **eCommerce, CMS, and custom web applications**.  
+I specialize in **Shopify, WordPress, and API development**, combining clean, responsive design with secure, scalable backends.  
+When I’m not coding, I love exploring SEO optimization, analytics, and discovering new tools that make projects more efficient.  
+
+I believe in **clean code, user-first design, and continuous learning**. Whether it’s Shopify Liquid customization, API integration, or cloud deployments, I focus on delivering solutions that **perform well and look great**.
+
+---
+
+- 🚀 Currently working on **Shopify & WordPress E-commerce projects**
+- 📚 Currently learning **Next.js** & **Advanced API integrations**
+- 📩 Reach me at: **junry.jumawan4@gmail.com**
+- 🌐 Check my portfolio: [Portfolio Website](https://snopeee1.github.io/Portfolio/)
 - 📄 View my resume: [My CV](https://drive.google.com/file/d/15AD8mis9NMoA71zKUdN80eqbSDe4C5-t/view)
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+## 🌍 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junry-gallego)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junry.jumawan4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B6587?style=for-the-badge&logo=About.me&logoColor=white)](https://snopeee1.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://snopeee1.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snopeee1)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -41,7 +47,7 @@ When I’m not coding, I love learning about **SEO, analytics, and business opti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🖥 Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -73,17 +79,18 @@ When I’m not coding, I love learning about **SEO, analytics, and business opti
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+---
+
+## 📈 GitHub Stats
+
+![Junry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snopeee1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snopeee1&layout=compact&theme=radical)
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snopeee1&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snopeee1&theme=radical" height="160"/>
-</p>
+## ✨ Fun Facts
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADC4C2,100:4B6587&height=140&section=footer"/>
-</p>
+- 🎯 I’ve built **conversion-focused Shopify stores** for global brands.
+- 📦 I can integrate **almost any API** into your web project.
+- ☕ Coffee is my debugging partner.
+- 🌏 Based in Iligan City, Philippines.
